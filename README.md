@@ -5,7 +5,8 @@ Date: June 8, 2025
 “Partner: Caitelyn Huang (chuan188@ucsc.edu)  
 “Collaborators: Ojashwini V Srinivasan (ovontivi@ucsc.edu) & Prithika Thanigaivelan (pthaniga@ucsc.edu) ”
 
-We worked from the apaladhi Repo and our commit ID was:  a64713ff22b000601463995cb3eece0fb3a34006
+We worked from the apaladhi Repo and our commit ID was:  
+a64713ff22b000601463995cb3eece0fb3a34006
 
 I wrote: 
 Agent.c
